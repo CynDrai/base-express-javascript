@@ -86,3 +86,9 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+# Node package.lock
+package-lock.json
+
+# Node yarn.lock
+yarn.lock
